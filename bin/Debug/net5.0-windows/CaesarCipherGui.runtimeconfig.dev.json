@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vegar\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vegar\\.nuget\\packages"
+    ]
+  }
+}
